@@ -11,6 +11,8 @@ Here the list of contributors with code and patches to JsSIP project. Thanks a l
 * [Gavin Llewellyn](https://github.com/gavllew)
 * [Julian Scheid](https://github.com/jscheid)
 * [James Mortensen](https://github.com/jamesmortensen)
+* [Steve Davies](https://github.com/davies147)
+* [Douglas Amorim Ferreira](https://github.com/douglaseel)
 
 
 JsSIP Debian and Ubuntu packaging
